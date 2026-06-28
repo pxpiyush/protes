@@ -1,0 +1,6 @@
+{
+  "name": "protes",
+  "description": "Never Lose a Great Prompt. The premium prompt management vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
